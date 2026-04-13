@@ -20,7 +20,7 @@ from telegram import Update
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes
 
 # ── Token del bot (se lee desde variable de entorno para seguridad) ─────────
-TOKEN = os.environ.get("TELEGRAM_TOKEN", "")
+TOKEN = "8613319422:AAFUSej7AEApb1_bLd-AtYoe2it6O-F2-WQ"
 
 # ═══════════════════════════════════════════════════════════════════════════
 #  MOTOR ESTADÍSTICO
